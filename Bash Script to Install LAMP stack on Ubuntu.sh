@@ -1,4 +1,5 @@
 #!/bin/bash
+#To be used with Ubuntu
 
 # Update Package Index
 sudo apt update
